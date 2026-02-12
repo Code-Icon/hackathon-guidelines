@@ -39,3 +39,35 @@ The organizing committee reserves the right to:
 - Archive repositories at the deadline
 - Review commit history
 - Disqualify teams violating rules
+
+---
+
+## 6. Repository Hygiene & Best Practices
+
+### Use of .gitignore
+
+- Participants must use an appropriate `.gitignore` file.
+- System files, build files, and dependency folders must not be committed.
+- Examples:
+  - node_modules/
+  - dist/
+  - build/
+  - .env
+  - .DS_Store
+
+You can generate proper `.gitignore` files using:
+
+👉 https://www.toptal.com/developers/gitignore
+
+This is a widely used and trusted open-source tool.
+
+---
+
+### Large File Policy
+
+- Do NOT upload large binaries, datasets, or media files directly.
+- GitHub has a file size limit of 100MB per file.
+
+---
+
+Failure to follow repository hygiene guidelines may affect evaluation.

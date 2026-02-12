@@ -4,10 +4,10 @@ Welcome to the official Hackathon Repository Guide.
 
 This repository contains:
 
-- [📜 Hackathon Rules](HACKATHON_RULES.md)
-- [⏳ Submission Policy](SUBMISSION_POLICY.md)
-- [🔐 Repository Access Information](REPOSITORY_ACCESS_GUIDE.md)
-- [💻 VS Code Setup Guide](VS_CODE_SETUP_GUIDE.md)
+- 📜 [Hackathon Rules](HACKATHON_RULES.md)
+- ⏳ [Submission Policy](SUBMISSION_POLICY.md)
+- 🔐 [Repository Access Information](REPOSITORY_ACCESS_GUIDE.md)
+- 💻 [VS Code Setup Guide](VS_CODE_SETUP_GUIDE.md)
 
 All participants must carefully read the documentation before starting development.
 
